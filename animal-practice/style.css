@@ -75,6 +75,10 @@ footer {
     clear: both;
     text-align: center;
 }
+
+a:hover{
+    font-size: 30px;
+}
 .icon{
     display: inline;
     opacity: 0.5;

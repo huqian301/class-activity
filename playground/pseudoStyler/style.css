@@ -1,0 +1,7 @@
+.red{
+    background: red;
+}
+
+.red:hover{
+    font-size: 20px;
+}
