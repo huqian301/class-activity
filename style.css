@@ -1,13 +1,16 @@
 *{
     box-sizing: border-box;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
 header {
     padding: 20px;
+    
+    
 }
 
 body{
     background-color: lightslategray;  
+    
 }
 
 
@@ -18,11 +21,14 @@ h1{
     background-color:  lightslategray;
     height:40px;
     width: 100%;
-
+  
 }
 h2{
     margin:20px;
     padding-top: 20px;
+    font-family: 'Signika', sans-serif;
+    font-family: 'Kreon', serif;
+    font-family: 'Lemonada', cursive;
 }
 
 section{
@@ -48,7 +54,6 @@ p{
     font-weight: 100;
     font-family: 'Courier New', Courier, monospace;
     margin:5%;
-
 }
 
 
